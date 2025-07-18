@@ -4,14 +4,14 @@ Simple japenese food search app
 
 A simple web app to explore delicious Japanese cuisine using the [TheMealDB API](https://www.themealdb.com/api.php).
 
-### 🔥 Features
+###  Features
 - Loads 6 random Japanese dishes on page load
 - Search for Japanese foods by name
 - Dark Mode toggle 🌙
-- View full recipe (external link)
+- View full recipe (external link) on button click
 - Responsive layout using Bootstrap 5
 
-### 🚀 Tech Stack
+###  Tech Stack
 - HTML, CSS
 - Bootstrap 5
 - Vanilla JavaScript
@@ -25,5 +25,7 @@ A simple web app to explore delicious Japanese cuisine using the [TheMealDB API]
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/japanese-food-app.git
+git clone https://github.com/BusaidiEssa/Japan-food-search.git
+```
+2. Open index.html in your browser
 
