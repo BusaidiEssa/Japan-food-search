@@ -29,3 +29,5 @@ git clone https://github.com/BusaidiEssa/Japan-food-search.git
 ```
 2. Open index.html in your browser
 
+###  Live DEMO
+[Explore it Here](https://japanfoodsearch.netlify.app)
