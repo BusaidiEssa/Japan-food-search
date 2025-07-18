@@ -19,7 +19,7 @@ A simple web app to explore delicious Japanese cuisine using the [TheMealDB API]
 
 ### 📸 Screenshot
 
-![screenshot](https://i.imgur.com/7LXkeAg.png)
+![screenshot](https://imgur.com/e417d6fc-4d82-492f-beca-5187e97327c8)
 
 ### 💻 Run Locally
 
