@@ -1,0 +1,55 @@
+.food-card img {
+  border-radius: 0.5rem;
+  width: 100%;
+  object-fit: cover;
+  height: 250px;
+}
+
+body.dark-mode {
+  background-color: #121212 !important;
+  color: #ffffff !important;
+}
+
+body.dark-mode * {
+  color: #ffffff !important;
+}
+
+body.dark-mode .card {
+  background-color: #1e1e1e;
+  border: 1px solid #333;
+}
+
+body.dark-mode .form-control {
+  background-color: #2a2a2a;
+  color: #ffffff;
+  border-color: #555;
+}
+
+body.dark-mode .form-control::placeholder {
+  color: #cccccc;
+}
+
+body.dark-mode .btn-primary {
+  background-color: #0d6efd;
+  border-color: #0d6efd;
+}
+
+body.dark-mode .btn-outline-danger {
+  color: #ffffff;
+  border-color: #ff4f4f;
+}
+
+body.dark-mode .btn-outline-danger:hover {
+  background-color: #ff4f4f;
+  color: #ffffff;
+}
+
+body.dark-mode .btn-secondary {
+  background-color: #444;
+  border-color: #444;
+  color: #ffffff;
+}
+
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
