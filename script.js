@@ -45,7 +45,7 @@ async function loadRandomJapaneseMeals() {
   }
 }
 
-// Search Japanese food by name (optional)
+// Search Japanese food by name 
 async function searchJapaneseFood() {
   const query = document.getElementById("searchInput").value.trim();
   const resultsDiv = document.getElementById("results");
